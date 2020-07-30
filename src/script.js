@@ -1,5 +1,5 @@
 document.querySelector('button').onclick = function convertBin2Dec(){
-    var valueBinary = document.getElementById('bin').value;
+    let valueBinary = document.getElementById('bin').value;
 
     let quantDigitsBinary = valueBinary.length;
 
@@ -18,6 +18,7 @@ function validationNumber(valueDigit){
         if(valueDigit[cont] != 1 && valueDigit[cont] != 0){
             alert('Please! Enter only 0 or 1!'); 
             document.getElementById('bin').value = null;
+            document.getElementById('dec').value = null;
             break;
         }
     }
