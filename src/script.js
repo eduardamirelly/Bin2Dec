@@ -13,3 +13,8 @@ document.querySelector('button').onclick = function convertBin2Dec(){
     document.getElementById('dec').value = valueDecimal;
 }
 
+function validationNumber(valueDigit){
+    for(let cont = 0; cont<valueDigit.length; cont++){
+        if(valueDigit[cont] != 1 && valueDigit[cont] != 0) document.getElementById('bin').value = null;
+    }
+}

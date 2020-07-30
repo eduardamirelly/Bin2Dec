@@ -59,6 +59,11 @@ input {
     display: inline-block;
     height: 25px;
     width: 200px;
+    text-align: center;
+}
+
+#dec {
+    color: black;
 }
 
 button {
