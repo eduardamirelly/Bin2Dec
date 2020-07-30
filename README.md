@@ -1,6 +1,6 @@
 # Bin2Dec
 
-#### Convert Binary for Decimal
+#### Binary to Decimal converter
 
 Idea from [here](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
