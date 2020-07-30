@@ -13,9 +13,9 @@
             <h3 class="titles">Convert Binary for Decimal</h3>
             <div>
                 <label class="titles">Binary Number</label>
-                <input type="text" id="bin">
+                <input type="text" id="bin" maxlength="8" onkeyup="validationNumber(this.value)">
                 <label class="titles">Decimal Number</label>
-                <input type="text" id="dec">
+                <input type="text" id="dec" disabled="">
             </div>
             <button type="button">Convert</button>
         </div>
