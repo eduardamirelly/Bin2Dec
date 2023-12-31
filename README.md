@@ -1,5 +1,19 @@
 # Bin2Dec
 
+![cover](.github/cover.png?style=flat)
+
+<p align="center">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/eduardamirelly/Bin2Dec?color=F35551&labelColor=241722">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eduardamirelly/Bin2Dec?color=F35551&labelColor=241722">
+  <img alt="Personal Project Tag" src="https://img.shields.io/static/v1?label=personal project&message=:)&color=F35551&labelColor=241722">
+</p>
+
+<p align="center">
+  <a href="https://github.com/eduardamirelly/Bin2Dec/issues/new/choose">Report Bug</a>
+  ·
+  <a href="https://github.com/eduardamirelly/Bin2Dec/issues/new/choose">Suggestions</a>
+</p>
+
 #### Binary to Decimal converter
 
 Idea from [here](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
